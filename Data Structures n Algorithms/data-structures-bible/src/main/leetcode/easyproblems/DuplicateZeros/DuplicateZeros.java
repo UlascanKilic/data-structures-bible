@@ -1,4 +1,4 @@
-package leetcode.easyproblems.DuplicateZeros;
+package main.leetcode.easyproblems.DuplicateZeros;
 
 public class DuplicateZeros {
 

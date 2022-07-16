@@ -1,4 +1,4 @@
-package leetcode.easyproblems.RemoveDuplicatesfromSortedArray;
+package main.leetcode.easyproblems.RemoveDuplicatesfromSortedArray;
 
 public class RemoveDuplicatesfromSortedArray {
     public static void main(String[] args) {
