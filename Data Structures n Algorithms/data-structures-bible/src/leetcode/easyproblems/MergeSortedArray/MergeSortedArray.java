@@ -1,4 +1,4 @@
-package Arrays101;
+package leetcode.easyproblems.MergeSortedArray;
 
 public class MergeSortedArray {
     public static void main(String[] args) {

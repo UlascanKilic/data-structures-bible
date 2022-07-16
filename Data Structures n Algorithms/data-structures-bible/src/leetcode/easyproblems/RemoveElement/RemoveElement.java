@@ -1,4 +1,4 @@
-package Arrays101;
+package leetcode.easyproblems.RemoveElement;
 
 public class RemoveElement {
     public static void main(String[] args) {

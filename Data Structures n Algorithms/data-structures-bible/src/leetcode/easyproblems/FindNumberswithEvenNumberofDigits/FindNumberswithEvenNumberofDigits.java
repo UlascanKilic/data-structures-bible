@@ -1,4 +1,4 @@
-package Arrays101;
+package leetcode.easyproblems.FindNumberswithEvenNumberofDigits;
 
 public class FindNumberswithEvenNumberofDigits {
 

@@ -1,4 +1,4 @@
-package Arrays101;
+package leetcode.easyproblems.DuplicateZeros;
 
 public class DuplicateZeros {
 
@@ -11,9 +11,7 @@ public class DuplicateZeros {
         for(int i = 0; i < arr.length; i++){
             if(arr[i] == 0 && i != arr.length-1){
                 //shift
-                for (int j = arr.length-2; j > i; j--){
-                    arr[j+1] = arr[j];
-                }
+                if (arr.length - 2 - i >= 0) System.arraycopy(arr, i + 1, arr, i + 1 + 1, arr.length - 2 - i);
                 arr[i+1] = 0;
                 i++;
             }

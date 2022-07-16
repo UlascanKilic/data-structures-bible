@@ -1,4 +1,4 @@
-package Arrays101;
+package leetcode.easyproblems.SquaresofaSortedArray;
 
 import java.util.Arrays;
 
